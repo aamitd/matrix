@@ -7,7 +7,7 @@ This test suite is designed to test the functionality of the Pokemon API (https:
 1. Clone the repository:
 
 ```commandline
-git clone https://github.com/aamitd/matrix_assignment.git
+git clone https://github.com/aamitd/matrix.git
 ```
 
 2. Install the required dependencies:
